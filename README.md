@@ -2,8 +2,6 @@
 
 # Curso JavaScript Ninja
 
-[Inscreva-se agora mesmo e ganhe 10% de desconto!](https://www.udemy.com/curso-javascript-ninja/?couponCode=JSNINJA)
-
 ## Desafio completo
 
-[Lista com todos os exercícios feitos no curso:](https://github.com/da2k/curso-javascript-ninja/pulls?page=1&q=is%3Apr+author%3Avitebo+is%3Aclosed)
+[Lista com todos os exercícios feitos no curso](https://github.com/da2k/curso-javascript-ninja/pulls?page=1&q=is%3Apr+author%3Avitebo+is%3Aclosed)
